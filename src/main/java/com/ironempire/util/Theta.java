@@ -2,7 +2,6 @@ package com.ironempire.util;
 /**
  * The Theta class stores the current <b>angle</b>,
  * of the robot, and provides some utility functions
- * Test comment please ignore
  *
  * @author Dylan Chorley
  * @version 0.1
